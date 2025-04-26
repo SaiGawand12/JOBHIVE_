@@ -1,62 +1,71 @@
-# Welcome to  JOBHIVE
+# JobHive - Professional Job Board Platform
 
-## Project info
+JobHive is a modern job board platform built with React and TypeScript, designed to connect talented professionals with exceptional employment opportunities across various industries.
 
-**URL**: 
-## How can I edit this code?
+## 🌟 Features
 
-There are several ways of editing your application.
+- **Job Search & Filter**: Advanced search functionality to find relevant job postings
+- **User Authentication**: Secure login and registration system
+- **Job Posting**: Easy-to-use interface for employers to post new job listings
+- **Responsive Design**: Fully responsive layout that works on desktop and mobile devices
+- **Career Resources**: Access to career advice and employer resources
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [ Project](https://lovable.dev/projects/b50ccfe6-9614-4a1f-87a1-14fc6ad3a42e) 
+- **Frontend Framework**: React with TypeScript
+- **Styling**: Tailwind CSS
+- **UI Components**: shadcn/ui
+- **Routing**: React Router
+- **State Management**: React Query
+- **Form Handling**: React Hook Form
+- **Data Visualization**: Recharts
+- **Icons**: Lucide React
 
+## 🚀 Getting Started
 
-**Use your preferred IDE**
+### Prerequisites
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Github.
+- Node.js (v14 or higher)
+- npm or yarn package manager
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Installation
 
-Follow these steps:
+1. Clone the repository
+```bash
+git clone https://github.com/SaiGawand12/JOBHIVE_.git
+cd JOBHIVE_
+```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone 
+2. Install dependencies
+```bash
+npm install
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+3. Start the development server
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The application will be available at `http://localhost:8080`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📱 Screenshots
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+![JobHive Dashboard](https://github.com/SaiGawand12/JOBHIVE_/blob/main/public/Screenshot%202025-04-26%20173536.png)
+*Main Dashboard View*
 
-## What technologies are used for this project?
+![Job Search Interface](https://github.com/SaiGawand12/JOBHIVE_/blob/main/public/Screenshot%202025-04-26%20173536.png)
+*Advanced Job Search*
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🤝 Contributing
 
-## How can I deploy this project?
+Contributions are welcome! Please feel free to submit a Pull Request.
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📞 Contact
+
+For any questions or concerns, please open an issue in the GitHub repository.
